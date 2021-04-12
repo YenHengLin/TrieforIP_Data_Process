@@ -1,0 +1,8 @@
+
+*.txt
+
+pymag-trees-master/
+
+*.csv
+
+.ipynb_checkpoints/
